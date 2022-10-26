@@ -1,5 +1,5 @@
 import pandas as pd
-parkinson_data=pd.read_csv('/content/pd_speech_features1.csv')
+parkinson_data=pd.read_csv('/content/pd_speech_features1.csv')#link to dataset is given in readme file
 #importing dependencies
 import numpy as np
 import pandas as pd
